@@ -48,7 +48,7 @@ const About = () => {
                         to UI/UX, and look forward to working on incredible projects with like minded individuals!
                     </p>
                     <p align="LEFT">
-                        <a href="https://github.com/KevinNg2/react.portfolio2.0/raw/main/src/assets/Kevin Ng FSD Resume (2).pdf" class="link">Download My Resume</a>
+                        <a href="https://github.com/KevinNg2/react.portfolio2.0/raw/main/src/assets/KNFSDResume2023.pdf" class="link">Download My Resume</a>
                     </p>
                     <p>
                     </p>
